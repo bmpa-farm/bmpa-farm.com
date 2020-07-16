@@ -313,12 +313,19 @@ img {
   .organik-seperator {
     margin: 0px auto 10px auto;
   }
+  .about-content {
+    width: 100%;
+  }
   .about-content-title, .about-content-title h4 {
     margin: 10px auto 0px auto;
     text-align: center;
   }
   .about-main-img {
     margin-top: 10px;
+  }
+  .product-item .product-thumb {
+    margin-right: auto;
+    margin-left: auto;
   }
 }
 @media (min-width: 769px) {
